@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - branch
+  - LobbySelectionPanel
+  - LoginPlayerName
+  - PlayerInfo
+  - btnReady
+  - Candy
+  - Border
+  - grass
+  - LobbyManager
+  - Enemy_Ogre1
+  - Enemy_Ogre2
+  - Enemy
+  - playerstat
+  - WaitPanel
+  - username
+  - CT_Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Foreground
+  - Obstacles
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3869536605
+    locked: 0
+  - name: UI
+    uniqueID: 1401914135
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2033785171
+    locked: 0
+  - name: Obstacles
+    uniqueID: 4288825871
+    locked: 0
